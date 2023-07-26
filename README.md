@@ -93,7 +93,7 @@ Now you can scan the QR code provided, or check how to connect your emulator.
 
 ## Useful links:
 
-The following links will take you to the creators' Gihub of the project:
+The following links will take you to the creators' Github of the project:
 
 `Alessandro Frondini:` [Github](https://github.com/alessandro-001) & [Linkedin](https://www.linkedin.com/in/alefrondini/)
 
